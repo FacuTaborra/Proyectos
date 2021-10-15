@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Hacer ejercico",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Estudiar",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Hacer tarea",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "hola como estas",
+    "estado": "pendiente"
+  }
+]
